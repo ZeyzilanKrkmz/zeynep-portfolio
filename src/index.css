@@ -1,11 +1,21 @@
 
-*{
-  box-sizing:border-box;
-  margin:0;
-  padding:0;
-  font-family:"Outfit",Arial,Helvetica,sans-serif;
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
 }
-html{
-  scroll-behavior:smooth;
+
+html,
+body {
+  scroll-behavior: smooth;
+  height: 100%;
+  background-color: #5b2828; /* Varsa tema renginizle eşleşmeli */
+  color: #fff; /* varsayılan metin rengi tanımlı olmalı */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }

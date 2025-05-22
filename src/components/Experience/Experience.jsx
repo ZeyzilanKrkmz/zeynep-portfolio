@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
@@ -30,7 +30,7 @@ export const Experience=()=>{
                         <div className={styles.historyItemDetails}>
                             <h3>{`${historyItem.role},${historyItem.organisation}`}</h3>
                             <p>{`${historyItem.startDate}-${historyItem.endDate}`}</p>
-                            <ul>{historyItem.experiences.map((experiences,id)=>{
+                            <ul>{historyItem.experiences.map((experience,id)=>{
                                 return <li key={id}>{experience}</li>
                             })}</ul>
                         </div>
@@ -40,3 +40,4 @@ export const Experience=()=>{
         </div>
     </section>
 };
+export default Experience;

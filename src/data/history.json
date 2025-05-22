@@ -1,10 +1,10 @@
 [
   {
-    "role": "Bilgisayar Muhendisligi Ogrencisi",
-    "organisation": "Balikesir Universitesi",
+    "role": "Bilgisayar Mühendisliği Öğrencisi",
+    "organisation": "Balıkesir Üniversitesi",
     "startDate": "Ekim,2023",
     "endDate": "Present",
-    "experiences": ["Ogrencilik"],
-    "imageSrc": "#"
+    "experiences": ["Lisans"],
+    "imageSrc": "skills/castle_9438746.webp"
   }
 ]
