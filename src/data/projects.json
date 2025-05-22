@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Solar Sistem",
+    "imageSrc": "projects/project.png",
+    "description": "C# ile yapilan günes sistemi hareketinin ufak bir minyaturu seklinde olusturulmus proje.",
+    "skills": ["C#"],
+    "demo": "#",
+    "source": "https://www.github.com/ZeyzilanKrkmz"
+  },
+  {
+    "title": "Ayın fazlarına bağlı olarak geliştirilen duygu tahmin analizi",
+    "imageSrc": "projects/project.png",
+    "description": "Twitter kullanicilarinin duygu durumlarini belirttigi paylasimlarin tarihlerindeki ay fazlari goz onune alınarak hazırlanan tahmin",
+    "skills": ["python, ms excel"],
+    "demo": "#",
+    "source": "https://www.github.com/ZeyzilanKrkmz"
+  },
+  {
+    "title": "Logistic",
+    "imageSrc": "projects/project.png",
+    "description": "Web programlamada gelisme amacli yapilan hayali bir lojistik firmasinin web sayfasi olacak sekilde yapilan proje",
+    "skills": ["html,css"],
+    "demo": "#",
+    "source": "https://www.github.com/ZeyzilanKrkmz"
+  }
+]

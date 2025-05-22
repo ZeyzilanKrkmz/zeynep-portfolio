@@ -1,0 +1,27 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "assets/skills/css-3.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "assets/skills/atomic_1404816.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "assets/skills/python_1822921.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "assets/skills/java_7496634.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "assets/skills/icons8-js-64.png"
+  }
+  
+]
