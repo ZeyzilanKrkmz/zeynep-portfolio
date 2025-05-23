@@ -6,8 +6,6 @@ export default defineConfig({
   base: '/',
   build: {
     outDir: 'dist'
-  },
-  esbuild: {
-    jsxInject: `import React from 'react'`  // ✅ EKLENECEK SATIR
   }
+  // esbuild kısmını tamamen kaldır!
 })
